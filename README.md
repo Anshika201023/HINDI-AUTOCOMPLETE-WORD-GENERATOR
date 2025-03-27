@@ -17,5 +17,5 @@ Following are the features:
 6) Database integration: To store user-specific word history for personalized suggestions.
 
 Pre-requisites:
-1) Java Development Kit (JDK) installed (version 8 or above)
-2) IDE (such as IntelliJ IDEA, Eclipse) or command-line tools
+1) Java Development Kit (JDK) installed (version 8 or above).
+2) IDE (such as IntelliJ IDEA, Eclipse) or command-line tools.
